@@ -8,6 +8,13 @@
 - 🌟 Tech Enthusiast: Passionate about *AI, **Web3, and **Data Science*  
 - 🎓 Currently pursuing *BTech in Computer Data Science*  
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Yash-Karakoti/Yash-Karakoti/output/snake.svg" alt="Snake animation" />
+
+###
 ---
 
 ### 🛠 Technologies I Work With
