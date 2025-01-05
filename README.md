@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yash Karakoti</h1>
 <h3 align="center">19 yrs | Btech Computer Science | Web2 & Web3 | Dev | DSA | Blockchain</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Merienda&size=21&duration=3000&pause=800&color=5CE862&center=true&random=true&width=435&lines=Code+never+lies%2C+comment+sometimes+do;First%2C+solve+the+problem.+Then%2C+code.;It+works+on+my+machine.;Make+it+work%2C+make+it+right%2C+make+it+fast.;There+is+no+place+like+127.0.0.1.;Hello%2C+World!;Eat.+Sleep.+Code.+Repeat.;It%E2%80%99s+not+a+bug%2C+it%E2%80%99s+a+feature!;Code+more%2C+worry+less;Git+happens!" alt="Typing SVG" />
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-karakoti&label=Profile%20views&color=0e75b6&style=flat" alt="yash-karakoti" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-karakoti" alt="yash-karakoti" /></a> </p>
@@ -43,3 +45,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-karakoti&show_icons=true&locale=en" alt="yash-karakoti" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-karakoti&" alt="yash-karakoti" /></p>
+<p align = center>
+<img src = "https://readme-typing-svg.herokuapp.com?font=Merienda&size=21&duration=3000&pause=800&color=5CE862&center=true&random=true&width=435&lines=Thanks+for+showing+up+here!"/>
