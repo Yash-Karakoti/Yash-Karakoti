@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Karakoti</h1>
-<h3 align="center">21 yrs | Btech Computer Science | Web2 & Web3 | Dev | DSA | Blockchain</h3>
+<h3 align="center">21 yrs | Btech Computer Science | Web2 & Web3 | DevOps | DSA | Open Source</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Merienda&size=21&duration=3000&pause=800&color=5CE862&center=true&random=true&width=435&lines=Code+never+lies%2C+comment+sometimes+do;First%2C+solve+the+problem.+Then%2C+code.;It+works+on+my+machine.;Make+it+work%2C+make+it+right%2C+make+it+fast.;There+is+no+place+like+127.0.0.1.;Hello%2C+World!;Eat.+Sleep.+Code.+Repeat.;It%E2%80%99s+not+a+bug%2C+it%E2%80%99s+a+feature!;Code+more%2C+worry+less;Git+happens!" alt="Typing SVG" />
 </p>
@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on **Building Projects**
 
-- 🌱 I’m currently learning **DSA , Frameworks & Web3**
+- 🌱 I’m currently learning **DSA , Frameworks & Development**
 
-- 👯 I’m looking to collaborate on **Open Source projects**
+- 👯 I’m collaborating in **Open Source projects**
 
-- 📝 I regularly write articles on **Web3 & Blockchain**
+- 📝 I'm looking forward to learn **DevOps & Cloud**
 
 - 📫 How to reach me? Here - **karakotiyash7@gmail.com**
 
